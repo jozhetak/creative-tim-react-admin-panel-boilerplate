@@ -1,0 +1,5 @@
+/* Product Category Admin */
+export const SET_ADMIN_CATEGORY = 'SET_ADMIN_CATEGORY';
+export const ADD_ADMIN_CATEGORY = 'ADD_ADMIN_CATEGORY';
+export const REMOVE_ADMIN_CATEGORY = 'SET_ADMIN_CATEGORY';
+export const EDIT_ADMIN_CATEGORY = 'SET_ADMIN_CATEGORY';
